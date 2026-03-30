@@ -35,7 +35,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>My Calculator</h1>
+      <h1 className="title">My Calculator</h1>
       <div className="calculator">
         <div className="display-area">
           <input 

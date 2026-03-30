@@ -70,3 +70,8 @@ button {
 #clear { background: #ff4d4d; }
 #result { background: #4caf50; }
 .operator { background: #ffa500; color: white; }
+
+.title{
+  color:#222;
+  margin-left:80px;
+}
